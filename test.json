@@ -3,7 +3,7 @@
     "emoji_code": "1F383",
     "players": [
         {"name": "Scala - Play Framework", "url": "https://cloudbowl-samples-scala-play-weurlhfjnq-uc.a.run.app/", "github_user": "playframework"},
-        {"name": "Kotlin - Micronaut", "url": "https://cloudbowl-samples-kotlin-micronaut-weurlhfjnq-uc.a.run.app/", "linkedin_user": "graemerocher"},
+        {"name": "Kotlin - Micronaut", "url": "https://cloudbowl-samples-kotlin-micronaut-weurlhfjnq-uc.a.run.app/"},
         {"name": "Kotlin - Quarkus", "url": "https://cloudbowl-samples-kotlin-quarkus-weurlhfjnq-uc.a.run.app/"},
         {"name": "Java - Spring Boot", "url": "https://cloudbowl-samples-java-springboot-weurlhfjnq-uc.a.run.app/"},
         {"name": "Java - Quarkus", "url": "https://cloudbowl-samples-java-quarkus-weurlhfjnq-uc.a.run.app/"}
