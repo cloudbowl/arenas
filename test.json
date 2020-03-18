@@ -1,5 +1,5 @@
 {
-    "name": "test",
+    "name": "Test Arena",
     "emoji_code": "1f383",
     "players": [
         {"name": "Scala - Play Framework", "url": "https://cloudbowl-samples-scala-play-weurlhfjnq-uc.a.run.app/", "github_user": "playframework"},
