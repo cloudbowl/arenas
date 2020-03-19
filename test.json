@@ -1,6 +1,6 @@
 {
     "name": "Test Arena",
-    "emoji_code": "1f383",
+    "emoji_code": "1f382",
     "players": [
         {"name": "Scala - Play Framework", "url": "https://cloudbowl-samples-scala-play-weurlhfjnq-uc.a.run.app/", "github_user": "playframework"},
         {"name": "Kotlin - Micronaut", "url": "https://cloudbowl-samples-kotlin-micronaut-weurlhfjnq-uc.a.run.app/"},
