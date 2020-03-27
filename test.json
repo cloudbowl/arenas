@@ -6,6 +6,7 @@
         {"name": "Kotlin - Micronaut", "url": "https://cloudbowl-samples-kotlin-micronaut-weurlhfjnq-uc.a.run.app/", "github_user": "micronaut-projects"},
         {"name": "Kotlin - Quarkus", "url": "https://cloudbowl-samples-kotlin-quarkus-weurlhfjnq-uc.a.run.app/"},
         {"name": "Java - Spring Boot", "url": "https://cloudbowl-samples-java-springboot-weurlhfjnq-uc.a.run.app/"},
-        {"name": "Java - Quarkus", "url": "https://cloudbowl-samples-java-quarkus-weurlhfjnq-uc.a.run.app/"}
+        {"name": "Java - Quarkus", "url": "https://cloudbowl-samples-java-quarkus-weurlhfjnq-uc.a.run.app/"},
+        {"name": "Go", "url": "https://cloudbowl-samples-go-weurlhfjnq-uc.a.run.app/"},
     ]
 }
