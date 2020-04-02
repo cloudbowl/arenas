@@ -5,9 +5,10 @@
         {"name": "Scala - Play Framework", "url": "https://cloudbowl-samples-scala-play-weurlhfjnq-uc.a.run.app/", "github_user": "playframework"},
         {"name": "Kotlin - Micronaut", "url": "https://cloudbowl-samples-kotlin-micronaut-weurlhfjnq-uc.a.run.app/", "github_user": "micronaut-projects"},
         {"name": "Kotlin - Quarkus", "url": "https://cloudbowl-samples-kotlin-quarkus-weurlhfjnq-uc.a.run.app/"},
-        {"name": "Java - Spring Boot", "url": "https://cloudbowl-samples-java-springboot-weurlhfjnq-uc.a.run.app/"},
+        {"name": "Java - Spring Boot", "url": "https://cloudbowl-samples-java-springboot-weurlhfjnq-uc.a.run.app/", "github_user": "spring-projects"},
         {"name": "Java - Quarkus", "url": "https://cloudbowl-samples-java-quarkus-weurlhfjnq-uc.a.run.app/"},
         {"name": "Go", "url": "https://cloudbowl-samples-go-weurlhfjnq-uc.a.run.app/", "github_user": "golang"},
-        {"name": "Node.js", "url": "https://cloudbowl-samples-nodejs-weurlhfjnq-uc.a.run.app/", "github_user": "nodejs"}
+        {"name": "Node.js", "url": "https://cloudbowl-samples-nodejs-weurlhfjnq-uc.a.run.app/", "github_user": "nodejs"},
+        {"name": "Python", "url": "https://cloudbowl-samples-python-weurlhfjnq-uc.a.run.app/", "github_user": "python"}
     ]
 }
