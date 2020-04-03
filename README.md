@@ -3,7 +3,14 @@ Cloud Bowl Arenas
 
 [Learn about building a microservice for battle](https://codelabs.developers.google.com/codelabs/battle-peach/index.html)
 
-After deploying your microservice, you can send a pull request to be added to an arena by editing its json file.  Available arenas:
+After deploying your microservice, you can send a pull request to be added to an arena by editing its json file, and adding an object to the `players` list like:
+```
+{"name": "Foo Bar", "url": "https://asdf.app", "github_user": "foo"}
+```
+
+If you do not specify the `github_user` a random avatar will be used.
+
+Available arenas:
 
 | Arena | Description | |
 |-------|-------------|-|
