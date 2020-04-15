@@ -67,15 +67,16 @@ There are a number of battle microservice samples you can start from:
 
 | Sample | Source | Deploy |
 |--------|--------|--------|
-| Java & Spring Boot | [Source](java-springboot-source) | [![Deploy](https://deploy.cloud.run/button.svg)](java-springboot-deploy) |
-| Java & Quarkus | [Source](java-quarkus-source) | [![Deploy](https://deploy.cloud.run/button.svg)](java-quarkus-deploy) |
-| Kotlin & Micronaut | [Source](kotlin-micronaut-source) | [![Deploy](https://deploy.cloud.run/button.svg)](kotlin-micronaut-deploy) |
-| Kotlin & Quarkus | [Source](kotlin-quarkus-source) | [![Deploy](https://deploy.cloud.run/button.svg)](kotlin-quarkus-deploy) |
-| Scala & Play Framework | [Source](scala-play-source) | [![Deploy](https://deploy.cloud.run/button.svg)](scala-play-deploy) |
-| Go | [Source](go-source) | [![Deploy](https://deploy.cloud.run/button.svg)](go-deploy) |
-| Node.js | [Source](nodejs-source) | [![Deploy](https://deploy.cloud.run/button.svg)](nodejs-deploy) |
-| Python | [Source](python-source) | [![Deploy](https://deploy.cloud.run/button.svg)](python-deploy) |
+| Java & Spring Boot | [Source][java-springboot-source] | [![Deploy][button]][java-springboot-deploy] |
+| Java & Quarkus | [Source][java-quarkus-source] | [![Deploy][button]][java-quarkus-deploy] |
+| Kotlin & Micronaut | [Source][kotlin-micronaut-source] | [![Deploy][button]][kotlin-micronaut-deploy] |
+| Kotlin & Quarkus | [Source][kotlin-quarkus-source] | [![Deploy][button]][kotlin-quarkus-deploy] |
+| Scala & Play Framework | [Source][scala-play-source] | [![Deploy][button]][scala-play-deploy] |
+| Go | [Source][go-source] | [![Deploy][button]][go-deploy] |
+| Node.js | [Source][nodejs-source] | [![Deploy][button]][nodejs-deploy] |
+| Python | [Source][python-source] | [![Deploy][button]][python-deploy] |
 
+[button]: https://deploy.cloud.run/button.svg
 [java-springboot-source]: https://github.com/GoogleCloudPlatform/cloudbowl-microservice-game/tree/master/samples/java-springboot
 [java-springboot-deploy]: https://deploy.cloud.run/?git_repo=https://github.com/GoogleCloudPlatform/cloudbowl-microservice-game.git&dir=samples/java-springboot
 [java-quarkus-source]: https://github.com/GoogleCloudPlatform/cloudbowl-microservice-game/tree/master/samples/java-quarkus

@@ -14,14 +14,14 @@ Available arenas:
 
 | Arena | Description | |
 |-------|-------------|-|
-| test  | All of [the Cloud Bowl samples](cloudbowl-samples) | [view](test-view) - [join](test-edit) |
-| beginner | For those just getting started | [view](beginner-view) - [join](beginner-edit) |
-| gcpdevrel | Google Cloud DevRel | [view](gcpdevrel-view) - [join](gcpdevrel-edit) |
+| test  | All of [the Cloud Bowl samples][cloudbowl-samples] | [view][test-view] - [join][test-edit] |
+| beginner | For those just getting started | [view][beginner-view] - [join][beginner-edit] |
+| gcpdevrel | Google Cloud DevRel | [view][gcpdevrel-view] - [join][gcpdevrel-edit] |
 
 [cloudbowl-samples]: https://github.com/GoogleCloudPlatform/cloudbowl-microservice-game/tree/master/samples
 [test-edit]: https://github.com/cloudbowl/arenas/edit/master/test.json
-[test-view]: http://cloudbowl.gcplab.me/test
+[test-view]: https://cloudbowl.gcplab.me/test
 [beginner-edit]: https://github.com/cloudbowl/arenas/edit/master/beginner.json
-[beginner-view]: http://cloudbowl.gcplab.me/beginner
+[beginner-view]: https://cloudbowl.gcplab.me/beginner
 [gcpdevrel-edit]: https://github.com/cloudbowl/arenas/edit/master/gcpdevrel.json
-[gcpdevrel-view]: http://cloudbowl.gcplab.me/gcpdevrel
+[gcpdevrel-view]: https://cloudbowl.gcplab.me/gcpdevrel
