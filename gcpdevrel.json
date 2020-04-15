@@ -1,5 +1,7 @@
 {
     "name": "GCP DevRel",
     "emoji_code": "1f951",
-    "players": []
+    "players": [
+        {"name": "James Ward", "url": "https://cloudbowl-jamesward-weurlhfjnq-uc.a.run.app", "github_user": "jamesward"}
+    ]
 }
