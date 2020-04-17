@@ -1,6 +1,6 @@
 {
     "name": "GCP DevRel",
-    "emoji_code": "1f951",
+    "emoji_code": "1f34b",
     "players": [
         {"name": "James Ward", "url": "https://cloudbowl-jamesward-weurlhfjnq-uc.a.run.app", "github_user": "jamesward"},
         {"name": "Roberto", "url": "https://cloudbowl-hostirosti-python-6l2ndlpxsq-uc.a.run.app", "github_user": "hostirosti"}
