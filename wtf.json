@@ -1,5 +1,7 @@
 {
     "name": "WTF Arena",
     "emoji_code": "1f37A",
-    "players": []
+    "players": [
+        {"name": "James Ward", "url": "https://cloudbowl-jamesward-weurlhfjnq-uc.a.run.app", "github_user": "jamesward"}
+    ]
 }
