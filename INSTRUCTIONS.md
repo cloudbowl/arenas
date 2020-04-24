@@ -150,6 +150,7 @@ Now set another environment variable for the sample you used so in later command
 # Copy and paste ONLY ONE of these
 export SAMPLE=java-springboot
 export SAMPLE=java-quarkus
+export SAMPLE=kotlin-springboot
 export SAMPLE=kotlin-micronaut
 export SAMPLE=kotlin-quarkus
 export SAMPLE=scala-play
