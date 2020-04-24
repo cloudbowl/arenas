@@ -69,6 +69,7 @@ There are a number of battle microservice samples you can start from:
 |--------|--------|--------|
 | Java & Spring Boot | [Source][java-springboot-source] | [![Deploy][button]][java-springboot-deploy] |
 | Java & Quarkus | [Source][java-quarkus-source] | [![Deploy][button]][java-quarkus-deploy] |
+| Kotlin & Spring Boot | [Source][kotlin-springboot-source] | [![Deploy][button]][kotlin-springboot-deploy] |
 | Kotlin & Micronaut | [Source][kotlin-micronaut-source] | [![Deploy][button]][kotlin-micronaut-deploy] |
 | Kotlin & Quarkus | [Source][kotlin-quarkus-source] | [![Deploy][button]][kotlin-quarkus-deploy] |
 | Scala & Play Framework | [Source][scala-play-source] | [![Deploy][button]][scala-play-deploy] |
@@ -81,6 +82,8 @@ There are a number of battle microservice samples you can start from:
 [java-springboot-deploy]: https://deploy.cloud.run/?git_repo=https://github.com/GoogleCloudPlatform/cloudbowl-microservice-game.git&dir=samples/java-springboot
 [java-quarkus-source]: https://github.com/GoogleCloudPlatform/cloudbowl-microservice-game/tree/master/samples/java-quarkus
 [java-quarkus-deploy]: https://deploy.cloud.run/?git_repo=https://github.com/GoogleCloudPlatform/cloudbowl-microservice-game.git&dir=samples/java-quarkus
+[kotlin-springboot-source]: https://github.com/GoogleCloudPlatform/cloudbowl-microservice-game/tree/master/samples/kotlin-springboot
+[kotlin-springboot-deploy]: https://deploy.cloud.run/?git_repo=https://github.com/GoogleCloudPlatform/cloudbowl-microservice-game.git&dir=samples/kotlin-springboot
 [kotlin-micronaut-source]: https://github.com/GoogleCloudPlatform/cloudbowl-microservice-game/tree/master/samples/kotlin-micronaut
 [kotlin-micronaut-deploy]: https://deploy.cloud.run/?git_repo=https://github.com/GoogleCloudPlatform/cloudbowl-microservice-game.git&dir=samples/kotlin-micronaut
 [kotlin-quarkus-source]: https://github.com/GoogleCloudPlatform/cloudbowl-microservice-game/tree/master/samples/kotlin-quarkus
