@@ -1,6 +1,6 @@
 {
     "name": "Spring I/O - Battle Jamón",
-    "emoji_code": "1F953",
+    "emoji_code": "1F356",
     "players": [
         {"name": "Scala - Play Framework", "url": "https://cloudbowl-samples-scala-play-weurlhfjnq-uc.a.run.app/", "github_user": "playframework"},
         {"name": "Kotlin - Micronaut", "url": "https://cloudbowl-samples-kotlin-micronaut-weurlhfjnq-uc.a.run.app/", "github_user": "micronaut-projects"}
