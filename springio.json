@@ -1,5 +1,7 @@
 {
     "name": "Spring I/O - Battle Jamón",
     "emoji_code": "1F953",
-    "players": []
+    "players": [
+        {"name": "Scala - Play Framework", "url": "https://cloudbowl-samples-scala-play-weurlhfjnq-uc.a.run.app/", "github_user": "playframework"}
+    ]
 }
