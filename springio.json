@@ -2,6 +2,7 @@
     "name": "Spring I/O - Battle Jamón",
     "emoji_code": "1F356",
     "players": [
+        {"name": "pallavi", "url": "https://kotlin-springboot-pxcczocwsq-uc.a.run.app/", "github_user": "pallavirawat"},
         {"name": "jalkal", "url": "https://java-springboot-xp772cxy4q-uc.a.run.app/"},
         {"name": "ntuveri", "url": "https://java-springboot-nz3cryaazq-ew.a.run.app/", "github_user": "ntuveri"},
         {"name": "GSV", "url": "https://java-springboot-gph6z3gnza-uc.a.run.app/"},
