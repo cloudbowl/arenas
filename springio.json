@@ -2,8 +2,7 @@
     "name": "Spring I/O - Battle Jamón",
     "emoji_code": "1F356",
     "players": [
-        {"name": "Kotlin - Spring Boot", "url": "https://cloudbowl-samples-kotlin-springboot-weurlhfjnq-uc.a.run.app/", "github_user": "kotlin"},
-        {"name": "Java - Spring Boot", "url": "https://cloudbowl-samples-java-springboot-weurlhfjnq-uc.a.run.app/", "github_user": "openjdk"},
+        {"name": "Antoni", "url": "https://java-springboot-enlpy373mq-uc.a.run.app/"},
         {"name": "Prashant Bhuruk", "url": "https://jamon.coderprabhu.com/", "github_user": "CoderPraBhu"}
     ]
 }
