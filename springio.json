@@ -2,6 +2,7 @@
     "name": "Spring I/O - Battle Jamón",
     "emoji_code": "1F356",
     "players": [
+        {"name": "Jigar Pandya", "url": "https://java-springboot-4q4vd33qgq-uc.a.run.app/"},
         {"name": "karthik", "url": "https://numeric-oarlock-277309.uc.r.appspot.com/"},
         {"name": "pallavi", "url": "https://kotlin-springboot-pxcczocwsq-uc.a.run.app/", "github_user": "pallavirawat"},
         {"name": "jalkal", "url": "https://java-springboot-xp772cxy4q-uc.a.run.app/"},
