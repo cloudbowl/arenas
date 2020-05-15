@@ -1,0 +1,16 @@
+{
+    "name": "Spring I/O - Battle Jamón",
+    "emoji_code": "1F356",
+    "players": [
+        {"name": "aalvval", "url": "https://bridge-jamon-o3waox7bhq-uc.a.run.app/", "github_user": "aalvval"},
+        {"name": "Martin Hofmann-Sob", "url": "https://kotlin-springboot-6kzf2b2maq-uc.a.run.app/", "github_user": "masooh"},
+        {"name": "otinanism", "url": "https://kotlin-springboot-vmaf33ltuq-uc.a.run.app/"},
+        {"name": "judomu", "url": "https://go-dkorwhtnba-uc.a.run.app/"},
+        {"name": "Dennisss", "url": "https://java-springboot-aua3tjdowa-uc.a.run.app/"},
+        {"name": "Simone", "url": "https://java-springboot-a2t3fufvea-uc.a.run.app/", "github_user": "SimoneCusimano"},
+        {"name": "Ladislav", "url": "https://springio-ladislav-racak.herokuapp.com/"},
+        {"name": "Sewerin", "url": "https://java-springboot-xqwv3dtspa-uc.a.run.app/"},
+        {"name": "Stefano", "url": "https://java-springboot-dffqeuj3uq-uc.a.run.app/"},
+        {"name": "Prashant Bhuruk", "url": "https://bootgame-usizy5vsbq-uc.a.run.app/", "github_user": "CoderPraBhu"}
+    ]
+}
