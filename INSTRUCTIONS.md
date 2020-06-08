@@ -167,15 +167,41 @@ You will then see further instructions for making changes.
 
 ![](assets/cloud-shell-editor.png "Cloud Shell with the editor with the sample project open")
 
-After saving your changes, build your project in Cloud Shell using the pack command. This command uses Buildpacks to detect the project type, compile it, and create the deployable artifact (a docker container image).
+After saving your changes you can build and start the service inside Cloud Shell by following the instructions in the sample's README.  After starting the service, test it with:
+
+```
+curl -d '{
+  "_links": {
+    "self": {
+      "href": "https://foo.com"
+    }
+  },
+  "arena": {
+    "dims": [4,3],
+    "state": {
+      "https://foo.com": {
+        "x": 0,
+        "y": 0,
+        "direction": "N",
+        "wasHit": false,
+        "score": 0
+      }
+    }
+  }
+}' -H "Content-Type: application/json" -X POST -w "\n" \
+  http://localhost:8080
+```
+
+To deploy your new version, use CNCF Buildpacks via the `pack` command to create a container image:
 
 ```
 pack build gcr.io/$PROJECT_ID/$SAMPLE \
-  --path cloudbowl-microservice-game/samples/$SAMPLE \
+  --path ~/cloudbowl-microservice-game/samples/$SAMPLE \
   --builder heroku/buildpacks
 ```
 
 Now that your container image has been created, use the docker command (in Cloud Shell) to push the container image to the Google Container Registry so that it can then be accessed by Cloud Run:
+
 ```
 docker push gcr.io/$PROJECT_ID/$SAMPLE
 ```
@@ -188,11 +214,52 @@ gcloud run deploy $SAMPLE\
           --platform=managed\
           --region=us-central1\
           --image=gcr.io/$PROJECT_ID/$SAMPLE\
-          --memory=512Mi\
           --allow-unauthenticated
 ```
 
 Now the arena will use your new version!
+
+### Develop Locally (Optional)
+
+If you'd like to develop locally on your machine, follow these steps:
+
+1. First zip up the sample in Cloud Shell:
+    ```
+    cd ~/cloudbowl-microservice-game/samples; zip -r cloudbowl-sample.zip $SAMPLE
+    ```
+
+1. Then while still in Cloud Shell, download the zip file to your machine:
+    ```
+    cloudshell download-file cloudbowl-sample.zip
+    ```
+
+Now complete the rest of these steps on your machine...
+
+1. [Install the gcloud CLI](https://cloud.google.com/sdk/install)
+
+1. Login to Google Cloud:
+    ```
+    gcloud auth login
+    ```
+
+1. Unzip the downloaded file and then make & test your changes using the instructions in the README.
+
+1. Set the environment variables `PROJECT_ID` and `SAMPLE` to the same values as in Cloud Shell.
+
+1. Use Cloud Build to build the container (from the root project directory):
+    ```
+    gcloud alpha builds submit . --pack=builder=heroku/buildpacks,image=gcr.io/$PROJECT_ID/$SAMPLE
+    ```
+
+1. Deploy the new container:
+    ```
+    gcloud run deploy $SAMPLE\
+              --project=$PROJECT_ID\
+              --platform=managed\
+              --region=us-central1\
+              --image=gcr.io/$PROJECT_ID/$SAMPLE\
+              --allow-unauthenticated
+    ```
 
 ## Congratulations
 
