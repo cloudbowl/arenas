@@ -2,6 +2,8 @@
     "name": "Sparkle Fest",
     "emoji_code": "2728",
     "players": [
-        {"name": "James Ward", "url": "https://cloudbowl-samples-scala-play-weurlhfjnq-uc.a.run.app/", "github_user": "jamesward"}
+        {"name": "James Ward", "url": "https://cloudbowl-samples-scala-play-weurlhfjnq-uc.a.run.app/", "github_user": "jamesward"},
+        {"name": "Laurie White", "url": "https://us-central1-battle-arena-2020.cloudfunctions.net/battle-1", "github_user": "Annie29"}
+        
     ]
 }
