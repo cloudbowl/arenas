@@ -2,6 +2,7 @@
     "name": "SpringOne",
     "emoji_code": "1f343",
     "players": [
-        {"name": "James Ward", "url": "https://cloudbowl-jamesward-weurlhfjnq-uc.a.run.app", "github_user": "jamesward"}
+        {"name": "Kotlin - Spring Boot", "url": "https://cloudbowl-samples-kotlin-springboot-weurlhfjnq-uc.a.run.app/"},
+        {"name": "Java - Spring Boot", "url": "https://cloudbowl-samples-java-springboot-weurlhfjnq-uc.a.run.app/"}
     ]
 }
