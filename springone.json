@@ -4,7 +4,7 @@
     "players": [
         {"name": "Google Cloud", "url": "https://cloudbowl-samples-kotlin-springboot-weurlhfjnq-uc.a.run.app/", "github_user": "GoogleCloudPlatform"},
         {"name": "Spring Boot", "url": "https://cloudbowl-samples-java-springboot-weurlhfjnq-uc.a.run.app/", "github_user": "spring-projects"},
-        {"name": "James Ward", "url": "https://cloudbowl-samples-java-springboot-weurlhfjnq-uc.a.run.app/", "github_user": "jamesward"},
-        {"name": "Ray Tsang", "url": "https://cloudbowl-samples-java-springboot-weurlhfjnq-uc.a.run.app/", "github_user": "saturnism"}
+        {"name": "James Ward", "url": "https://cloudbowl-samples-scala-play-weurlhfjnq-uc.a.run.app/", "github_user": "jamesward"},
+        {"name": "Ray Tsang", "url": "https://cloudbowl-samples-kotlin-quarkus-weurlhfjnq-uc.a.run.app/", "github_user": "saturnism"}
     ]
 }
