@@ -2,7 +2,9 @@
     "name": "SpringOne",
     "emoji_code": "1f343",
     "players": [
-        {"name": "Kotlin - Spring Boot", "url": "https://cloudbowl-samples-kotlin-springboot-weurlhfjnq-uc.a.run.app/", "github_user": "spring-projects"},
-        {"name": "Java - Spring Boot", "url": "https://cloudbowl-samples-java-springboot-weurlhfjnq-uc.a.run.app/", "github_user": "spring-projects"}
+        {"name": "Google Cloud", "url": "https://cloudbowl-samples-kotlin-springboot-weurlhfjnq-uc.a.run.app/", "github_user": "GoogleCloudPlatform"},
+        {"name": "Spring Boot", "url": "https://cloudbowl-samples-java-springboot-weurlhfjnq-uc.a.run.app/", "github_user": "spring-projects"},
+        {"name": "James Ward", "url": "https://cloudbowl-samples-java-springboot-weurlhfjnq-uc.a.run.app/", "github_user": "jamesward"},
+        {"name": "Ray Tsang", "url": "https://cloudbowl-samples-java-springboot-weurlhfjnq-uc.a.run.app/", "github_user": "saturnism"}
     ]
 }
