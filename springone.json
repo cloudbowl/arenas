@@ -2,7 +2,7 @@
     "name": "SpringOne",
     "emoji_code": "1f343",
     "players": [
-        {"name": "Kotlin - Spring Boot", "url": "https://cloudbowl-samples-kotlin-springboot-weurlhfjnq-uc.a.run.app/"},
-        {"name": "Java - Spring Boot", "url": "https://cloudbowl-samples-java-springboot-weurlhfjnq-uc.a.run.app/"}
+        {"name": "Kotlin - Spring Boot", "url": "https://cloudbowl-samples-kotlin-springboot-weurlhfjnq-uc.a.run.app/", "github_user": "spring-projects"},
+        {"name": "Java - Spring Boot", "url": "https://cloudbowl-samples-java-springboot-weurlhfjnq-uc.a.run.app/", "github_user": "spring-projects"}
     ]
 }
