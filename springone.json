@@ -2,6 +2,7 @@
     "name": "SpringOne",
     "emoji_code": "1f343",
     "players": [
+        {"name": "Sergio", "url": "https://java-springboot-zdyvqsj6ua-uc.a.run.app", "github_user": "Alos"},
         {"name": "DanZ", "url": "https://cloud-bowl-2yebdnw3bq-uc.a.run.app/", "github_user": "dzou"},
         {"name": "David", "url": "https://java-springboot-byfhyizrwq-uc.a.run.app", "github_user": "dovixman"},
         {"name": "Felix Gruenewald", "url": "https://java-springboot-mhjicnaeja-uc.a.run.app", "github_user": "thinkgruen"},
