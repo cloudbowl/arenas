@@ -2,6 +2,7 @@
     "name": "SpringOne",
     "emoji_code": "1f343",
     "players": [
+        {"name": "Jan Groot", "url": "https://java-springboot-elyu7c6sva-uc.a.run.app", "github_user": "JanGroot"},
         {"name": "Google Cloud", "url": "https://cloudbowl-samples-kotlin-springboot-weurlhfjnq-uc.a.run.app/", "github_user": "GoogleCloudPlatform"},
         {"name": "Spring Boot", "url": "https://cloudbowl-samples-java-springboot-weurlhfjnq-uc.a.run.app/", "github_user": "spring-projects"},
         {"name": "James Ward", "url": "https://cloudbowl-samples-scala-play-weurlhfjnq-uc.a.run.app/", "github_user": "jamesward"},
