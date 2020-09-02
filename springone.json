@@ -2,11 +2,10 @@
     "name": "SpringOne",
     "emoji_code": "1f343",
     "players": [
+        {"name": "David", "url": "https://java-springboot-byfhyizrwq-uc.a.run.app", "github_user": "dovixman"},
+        {"name": "Felix Gruenewald", "url": "https://java-springboot-mhjicnaeja-uc.a.run.app", "github_user": "thinkgruen"},
+        {"name": "Carlos Arambul", "url": "https://java-springboot-klda55ssja-uc.a.run.app", "github_user": "CarlosArambul"},
         {"name": "Jan Groot", "url": "https://java-springboot-elyu7c6sva-uc.a.run.app", "github_user": "JanGroot"},
-        {"name": "Bala", "url": "https://java-springboot-poer5kusha-uc.a.run.app", "github_user": "Bala"},
-        {"name": "Google Cloud", "url": "https://cloudbowl-samples-kotlin-springboot-weurlhfjnq-uc.a.run.app/", "github_user": "GoogleCloudPlatform"},
-        {"name": "Spring Boot", "url": "https://cloudbowl-samples-java-springboot-weurlhfjnq-uc.a.run.app/", "github_user": "spring-projects"},
-        {"name": "James Ward", "url": "https://cloudbowl-samples-scala-play-weurlhfjnq-uc.a.run.app/", "github_user": "jamesward"},
-        {"name": "Ray Tsang", "url": "https://cloudbowl-samples-kotlin-quarkus-weurlhfjnq-uc.a.run.app/", "github_user": "saturnism"}
+        {"name": "Bala", "url": "https://java-springboot-poer5kusha-uc.a.run.app", "github_user": "Bala"}
     ]
 }
