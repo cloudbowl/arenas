@@ -3,6 +3,9 @@
     "emoji_code": "1F4A6",
     "players": [
         {"name": "Lucas Rafagnin", "url": "https://cloudbowl-samples-nodejs-emz5rqkz7q-uc.a.run.app/", "github_user": "rafagnin"},
-        {"name": "Zaynab Shah", "url": "https://cloudbowl-samples-python-xnvvmzve3a-ts.a.run.app", "github_user": "z-shah"}
+        {"name": "Zaynab Shah", "url": "https://cloudbowl-samples-python-xnvvmzve3a-ts.a.run.app", "github_user": "z-shah"},
+        {"name": "David Mitchell", "url": "https://cloudbowl-samples-go-vw5u2zhlga-uc.a.run.app", "github_user": "monch1962"},
+        {"name": "Daniel Entin", "url": "https://cloudbowl-samples-python-cljpolvk7q-uc.a.run.app/", "github_user": "dentin"}
+        
     ]
 }
