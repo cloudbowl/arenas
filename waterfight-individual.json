@@ -2,14 +2,7 @@
     "name": "Waterfight (Individual)",
     "emoji_code": "1F4A6",
     "players": [
-        {"name": "Scala - Play Framework", "url": "https://cloudbowl-samples-scala-play-zymdgdhl5a-uc.a.run.app/", "github_user": "playframework"},
-        {"name": "Kotlin - Micronaut", "url": "https://cloudbowl-samples-kotlin-micronaut-zymdgdhl5a-uc.a.run.app/", "github_user": "micronaut-projects"},
-        {"name": "Kotlin - Quarkus", "url": "https://cloudbowl-samples-kotlin-quarkus-zymdgdhl5a-uc.a.run.app/"},
-        {"name": "Kotlin - Spring Boot", "url": "https://cloudbowl-samples-kotlin-springboot-zymdgdhl5a-uc.a.run.app/"},
-        {"name": "Java - Spring Boot", "url": "https://cloudbowl-samples-java-springboot-zymdgdhl5a-uc.a.run.app/", "github_user": "spring-projects"},
-        {"name": "Java - Quarkus", "url": "https://cloudbowl-samples-java-quarkus-zymdgdhl5a-uc.a.run.app/"},
-        {"name": "Go", "url": "https://cloudbowl-samples-go-zymdgdhl5a-uc.a.run.app/", "github_user": "golang"},
-        {"name": "Node.js", "url": "https://cloudbowl-samples-nodejs-zymdgdhl5a-uc.a.run.app/", "github_user": "nodejs"},
-        {"name": "Python", "url": "https://cloudbowl-samples-python-zymdgdhl5a-uc.a.run.app/", "github_user": "python"}
+        {"name": "Lucas Rafagnin", "url": "https://cloudbowl-samples-nodejs-emz5rqkz7q-uc.a.run.app/", "github_user": "rafagnin"},
+        {"name": "Zaynab Shah", "url": "https://cloudbowl-samples-python-xnvvmzve3a-ts.a.run.app", "github_user": "z-shah"}
     ]
 }
