@@ -1,0 +1,39 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "http://cloudbowl.gcplab.me/arena.schema.json",
+  "title": "Cloud Bowl Arena",
+  "type": "object",
+  "properties": {
+    "name": {
+      "description": "Arena name",
+      "type": "string"
+    },
+    "emoji_code": {
+      "description": "Arena emoji code",
+      "type": "string"
+    },
+    "players": {
+      "description": "Arena players",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "description": "Player name",
+            "type": "string"
+          },
+          "url": {
+            "description": "Player URL",
+            "type": "string"
+          },
+          "github_user": {
+            "description": "Player GitHub username",
+            "type": "string"
+          }
+        },
+        "required": ["name", "url" ]
+      }
+    }
+  },
+  "required": [ "name", "emoji_code", "players" ]
+}
