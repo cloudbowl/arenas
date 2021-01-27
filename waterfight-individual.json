@@ -3,6 +3,7 @@
     "emoji_code": "1F4A6",
     "players": [
         {"name": "James Ward", "url": "https://cloudbowl-jamesward-weurlhfjnq-uc.a.run.app", "github_user": "jamesward"},
-        {"name": "David Mitchell", "url": "https://davmitchell-waterfight-python-kjvcqd4urq-uc.a.run.app", "github_user": "monch1962"}
+        {"name": "David Mitchell", "url": "https://davmitchell-waterfight-python-kjvcqd4urq-uc.a.run.app", "github_user": "monch1962"},
+        {"name": "Saurabh Sehgal", "url": "https://ssehgal-waterfight-java-springboot-kjvcqd4urq-uc.a.run.app", "github_user": "saubsehgal"}
     ]
 }
