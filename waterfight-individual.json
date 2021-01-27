@@ -2,6 +2,7 @@
     "name": "Waterfight (Individual)",
     "emoji_code": "1F4A6",
     "players": [
+        {"name": "Vintony Padmadiredja", "url": "https://vpadmadiredja-waterfight-java-springboot-kjvcqd4urq-uc.a.run.app/", "github_user": "VintonyPadmadiredja"},
         {"name": "David Mitchell", "url": "https://davmitchell-waterfight-python-kjvcqd4urq-uc.a.run.app", "github_user": "monch1962"},
         {"name": "Alejandro Mari-Chatkiewicz", "url": "https://amarichatkiewicz-waterfight-java-springboot-kjvcqd4urq-uc.a.run.app", "github_user": "Alexstrasz"},
         {"name": "David Mitchell", "url": "https://davmitchell-waterfight-python-kjvcqd4urq-uc.a.run.app", "github_user": "monch1962"},
