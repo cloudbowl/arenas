@@ -2,9 +2,14 @@
     "name": "Waterfight (Individual)",
     "emoji_code": "1F4A6",
     "players": [
+        {"name": "Vintony Padmadiredja", "url": "https://vpadmadiredja-waterfight-java-springboot-kjvcqd4urq-uc.a.run.app/", "github_user": "VintonyPadmadiredja"},
+        {"name": "David Mitchell", "url": "https://davmitchell-waterfight-python-kjvcqd4urq-uc.a.run.app", "github_user": "monch1962"},
+        {"name": "Alejandro Mari-Chatkiewicz", "url": "https://amarichatkiewicz-waterfight-java-springboot-kjvcqd4urq-uc.a.run.app", "github_user": "Alexstrasz"},
+        {"name": "David Mitchell", "url": "https://davmitchell-waterfight-python-kjvcqd4urq-uc.a.run.app", "github_user": "monch1962"},
+        {"name": "Saurabh Sehgal", "url": "https://ssehgal-waterfight-java-springboot-kjvcqd4urq-uc.a.run.app", "github_user": "saubsehgal"},
         {"name": "Katharine Russell", "url": "https://krussell-waterfight-java-springboot-kjvcqd4urq-uc.a.run.app", "github_user": "xkatharinerussell"},
         {"name": "Suzannah Cooper", "url": "https://sucooper-waterfight-python-kjvcqd4urq-uc.a.run.app", "github_user": "s-cooper18"},
         {"name": "David Mitchell", "url": "https://davmitchell-waterfight-python-kjvcqd4urq-uc.a.run.app", "github_user": "monch1962"},
-        {"name": "Vintony Padmadiredja", "url": "https://vpadmadiredja-waterfight-java-springboot-kjvcqd4urq-uc.a.run.app/", "github_user": "VintonyPadmadiredja"}
+        {"name": "Kevin Tchang", "url": "https://ktchang-waterfight-java-springboot-kjvcqd4urq-uc.a.run.app", "github_user": "kjtchang"}
     ]
 }
