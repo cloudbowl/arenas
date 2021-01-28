@@ -2,7 +2,7 @@
     "name": "Waterfight (Team)",
     "emoji_code": "1F4A6",
     "players": [
-        {"name": "Creative Team Name", "url": "https://cloudbowl-samples-python-kjvcqd4urq-uc.a.run.app", "github_user": "s-cooper18"}, 
+        {"name": "Creative Team Name", "url": "https://creative-team-name1-kjvcqd4urq-ts.a.run.app", "github_user": "s-cooper18"}, 
         {"name": "Team Banana", "url": "https://team-banana-waterfight-kjvcqd4urq-uc.a.run.app", "github_user": "ltruongg"},
         {"name": "TwentyTwentyOne", "url": "https://ohello-waterfight-java-springboot-kjvcqd4urq-uc.a.run.app", "github_user": "Ottopablo"}
     ]
