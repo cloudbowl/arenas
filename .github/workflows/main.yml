@@ -1,5 +1,7 @@
 name: Validate JSON
-on: [push, pull_request]
+on:
+  pull_request:
+    branches: [ master ]
 jobs:
   validate_json:
     runs-on: ubuntu-latest
