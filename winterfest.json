@@ -2,6 +2,7 @@
     "name": "WinterFest",
     "emoji_code": "2744",
     "players": [
-        {"name": "Rui", "url": "https://nodejs-jacv6hwdoq-uc.a.run.app", "github_user": "ruiscosta"}
+        {"name": "Rui", "url": "https://nodejs-jacv6hwdoq-uc.a.run.app", "github_user": "ruiscosta"},
+        {"name": "Scoth42", "url": "https://python-b26x5zz7yq-uc.a.run.app", "github_user": "Scoth42"}
     ]
 }
