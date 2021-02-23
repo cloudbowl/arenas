@@ -4,6 +4,7 @@
     "players": [
         {"name": "Rui", "url": "https://nodejs-jacv6hwdoq-uc.a.run.app", "github_user": "ruiscosta"},
         {"name": "Scoth42", "url": "https://python-b26x5zz7yq-uc.a.run.app", "github_user": "Scoth42"},
-        {"name": "thamilton","url": "https://python-snvqw32xda-uc.a.run.app","github_user": "thamilton2014"}
+        {"name": "thamilton","url": "https://python-snvqw32xda-uc.a.run.app","github_user": "thamilton2014"},
+        {"name": "Roberto", "url": "https://python-doclbikvqq-uc.a.run.app", "github_user": "rbarberop"}
     ]
 }
